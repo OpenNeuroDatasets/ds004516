@@ -1,0 +1,10 @@
+{   "Name": "Individual differences in neural event segmentation of continuous experiences",
+    "Authors": [
+        "Clara Sava-Segal",
+	"Chandler Richards",
+	"Megan Leung",
+	"Emily S. Finn"
+    ],
+    "DatasetDOI": "https://doi.org/10.1101/2022.09.09.507003",
+    "BIDSVersion":"1.6.0" 
+}

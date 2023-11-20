@@ -1,0 +1,28 @@
+onset	duration	trial_type	stim_file	response_logged	response	response_time
+20.0052595	503.1211178	Movie	Growth.mp4			
+558.2171125	181.9040083	FreeResp				
+746.146393	15.12838763	the_mother_FreeResp	GrowthCh.txt			
+788.4455087	15.13240857	the_younger_brother_FreeResp	GrowthCh.txt			
+809.6031583	15.12435444	the_older_brother_FreeResp	GrowthCh.txt			
+767.2959633	15.13235725	the_father_FreeResp	GrowthCh.txt			
+839.7865307	11.3406773	Question1	Growth.txt	1.0	A	9.320689145
+851.1273904	12.14132151	Question2	Growth.txt	0.0		
+863.2688235	12.14136654	Question3	Growth.txt	0.0		
+875.4103145	11.94891802	Question4	Growth.txt	1.0	B	5.896254154
+902.5102364	10.00744528	the_mother_Rating	GrowthCh.txt	0.0	3	
+912.5195407	10.00629147	the_younger_brother_Rating	GrowthCh.txt	0.0	5	
+922.5274313	10.00629312	the_older_brother_Rating	GrowthCh.txt	0.0	6	
+932.5353285	10.01481275	the_father_Rating	GrowthCh.txt	0.0	2	
+942.5520956	10.00609382	the_mother_ID	GrowthCh.txt	0.0	2	
+952.5597001	10.00664043	the_younger_brother_ID	GrowthCh.txt	0.0	5	
+962.5697361	10.00483572	the_older_brother_ID	GrowthCh.txt	0.0	5	
+972.5763487	10.00624081	the_father_ID	GrowthCh.txt	0.0	1	
+1027.841636	10.00642456	happy_Rating	Growth.txt	0.0	2	
+1037.849677	10.00643118	surprised_Rating	Growth.txt	0.0	1	
+1047.857878	10.00626101	angry_Rating	Growth.txt	0.0	5	
+1007.817113	10.01475944	tense_Rating	Growth.txt	0.0	4	
+997.807921	10.00740985	sad_Rating	Growth.txt	0.0	5	
+1017.833576	10.00637391	frustrated_Rating	Growth.txt	0.0	3	
+1057.865878	20.00611832	Arousal_Rating	Growth.txt	0.0	3	
+1077.873006	20.00724895	Valence_Rating	Growth.txt	0.0	3	
+1097.881971	10.00607097	Engagement_Rating	Growth.txt	0.0	5	

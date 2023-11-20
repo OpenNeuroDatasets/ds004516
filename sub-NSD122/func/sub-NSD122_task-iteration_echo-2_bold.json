@@ -143,6 +143,7 @@
   "SpacingBetweenSlices": 3,
   "StationName": "AWP66028",
   "TotalReadoutTime": 0.0173951,
+  "TaskName": "iteration",
   "TxRefAmp": 202.923,
   "WipMemBlock": "d12e28e5-8ddb-4411-b20c-d6a763c95170||Sequence: R016 vd13d/master r/9483a2f6; Dec 19 2017 12:17:24 by eja"
 }

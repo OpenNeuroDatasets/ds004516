@@ -143,6 +143,7 @@
   "SpacingBetweenSlices": 3,
   "StationName": "AWP66028",
   "TotalReadoutTime": 0.0173951,
+  "TaskName": "defeat",
   "TxRefAmp": 230.396,
   "WipMemBlock": "415ad3dd-d47a-4ad4-afb3-cb56c6359d31||Sequence: R016 vd13d/master r/9483a2f6; Dec 19 2017 12:17:24 by eja"
 }

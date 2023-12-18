@@ -35,4 +35,6 @@ Runs are a bit longer than the movie stimuli themselves. We recommend dropping t
 - Remaining TRs: 747 <br>
 <br>
 
-
+<br>
+<br>Derivatives </br>
+This folder has preprocessed data - one with a shared response model applied ('nocensor_srm-recon') and one without ('_nocensor')

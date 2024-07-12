@@ -1,0 +1,16 @@
+{
+    "Name": "AVID: Audio-Visual Individual Differences dataset",
+    "Authors": [
+        "Clara Sava-Segal",
+        "Chandler Richards",
+        "Megan Leung",
+        "Daniel A. Handwerker",
+        "Javier Gonzalez-Castillo",
+        "Peter J. Molfese",
+        "Peter A Bandettini",
+        "Emily S. Finn"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004516.v2.0.1",
+    "BIDSVersion": "1.4.1",
+    "License": "CC0"
+}
